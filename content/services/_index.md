@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # Test deploy Netlify
 
-Edit /content
+Edit / index.md
